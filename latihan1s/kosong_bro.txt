@@ -1,0 +1,1 @@
+ini hanyalah triger biar bisa upload di github, karena file visual prolog terlalu banyak, jadi upload satu-satu
